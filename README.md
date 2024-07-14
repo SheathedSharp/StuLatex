@@ -2,7 +2,7 @@
  * @Author: hiddenSharp429 z404878860@163.com
  * @Date: 2024-07-14 09:38:59
  * @LastEditors: hiddenSharp429 z404878860@163.com
- * @LastEditTime: 2024-07-14 10:15:47
+ * @LastEditTime: 2024-07-14 11:51:03
  * @FilePath: /STU-report-template/README.md
  * @Description: 
 -->
@@ -27,5 +27,10 @@ Welcome to the GitHub repository for the "Shantou University Assignment Submissi
     - Upload the project to Overleaf
     - Select the downloaded resource package (in zip format)
     - In the compiler options, select the `XeLaTex` compiler
+
+3. **Use a Local LATEX Compiler to Write Your Assignment**:
+   - Install LATEX Environment: If you have not installed LATEX yet, please install a complete LATEX distribution such as TeX Live (suitable for all platforms) or MikTeX (suitable for Windows). Alternatively, you can install it directly using Homebrew with the command `brew install --cask mactex-no-gui`.
+   - Open VSCode and install the `LaTeX Workshop` extension.
+   - Configure the compilation environment; please search for detailed instructions online.
 
 Note: Modify the cover in `cover.tex` and the main content in `main.tex`.

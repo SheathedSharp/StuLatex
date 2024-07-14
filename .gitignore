@@ -1,0 +1,12 @@
+
+*.aux
+
+.vscode/
+
+*.log
+
+*.out
+
+*.pdf
+
+*.gz
